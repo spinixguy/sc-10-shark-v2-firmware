@@ -7,6 +7,6 @@ graphics package then you will need to download this zip and flash your display 
 
 SM3DP-lotmaxx-generic.bin is the beta software I compiled using the configuration from Lotmaxx.
 
-SM3DP-ubl-4x4-2.08.bin is the beta software For Unified Bed Leveling.
+SM3DP-ubl-4x4-2.09.bin is the beta software For Unified Bed Leveling.
 
-SM3DP-mbl-4x4-2.08.bin is the beta software For Manual Mesh Bed Leveling.
+SM3DP-mbl-4x4-2.09.bin is the beta software For Manual Mesh Bed Leveling.
